@@ -9,7 +9,7 @@ I love building games and experimenting with code that makes the digital life si
 
 🧩 Engines: Unity (experienced), Godot & Unreal Engine (learning)
 
-🎧 Also dabbling in music production and voice acting, blending tech with creativity.
+🎧 Also dabbling in music production and voice acting
 
 🚀 My uploaded projects: https://bongodad.itch.io
 
