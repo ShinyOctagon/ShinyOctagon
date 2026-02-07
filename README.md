@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I’m Robin Ågren
 
-<!--
-**ShinyOctagon/ShinyOctagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | Programmer | Creator
 
-Here are some ideas to get you started:
+I love building games and experimenting with code that the digital life simpler and smoother.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+💻 Stack: C#, C++
+
+🧩 Engines: Unity (experienced), Godot & Unreal Engine (learning)
+
+🎧 Also dabbling in music production and voice acting, blending tech with creativity.
+
+🚀 My uploaded projects: https://bongodad.itch.io
+
+📫 You reach me easiest by sending a mail to: robin.bellgrad@gmail.com
