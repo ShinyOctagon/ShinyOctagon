@@ -2,7 +2,7 @@
 
 🎮 Game Developer | Programmer | Creator
 
-I love building games and experimenting with code that the digital life simpler and smoother.
+I love building games and experimenting with code that makes the digital life simpler and smoother.
 
 
 💻 Stack: C#, C++
