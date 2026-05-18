@@ -13,4 +13,4 @@ I love building games and experimenting with code that makes the digital life si
 
 🚀 My uploaded projects: https://bongodad.itch.io
 
-📫 You reach me easiest by sending a mail to: robin.bellgrad@gmail.com
+📫 You reach me easiest by sending a mail to: hotpotsoftware@gmail.com
