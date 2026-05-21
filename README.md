@@ -11,6 +11,6 @@ I love building games and experimenting with code that makes the digital life si
 
 🎧 Also dabbling in music production and voice acting
 
-🚀 My uploaded projects: https://bongodad.itch.io
+🚀 My uploaded projects: https://shinyoctagon.itch.io
 
 📫 You reach me easiest by sending a mail to: hotpotsoftware@gmail.com
